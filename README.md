@@ -1,0 +1,2 @@
+# Exercicio-Binario
+Exercício Binário
